@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>20A241133</string>
+	<key>CFBundleExecutable</key>
+	<string>rtcreportingd</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>8.0</string>
+	<key>CFBundleName</key>
+	<string>rtcreportingd</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneSimulator</string>
+	</array>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>13E6049a</string>
+	<key>DTPlatformName</key>
+	<string>iphonesimulator</string>
+	<key>DTPlatformVersion</key>
+	<string>15.5</string>
+	<key>DTSDKBuild</key>
+	<string>19F63</string>
+	<key>DTSDKName</key>
+	<string>iphonesimulator15.5.internal</string>
+	<key>DTXcode</key>
+	<string>1330</string>
+	<key>DTXcodeBuild</key>
+	<string>13E6049a</string>
+	<key>MinimumOSVersion</key>
+	<string>15.5</string>
+	<key>RTCReporting</key>
+	<dict>
+		<key>StorebagPublicKey</key>
+		<data>
+		MIIBCgKCAQEAvUY6lWJE7aQJLpQCHd68e/TytM0OL59ONygzhwJVXhYKzBNE
+		pQQ95VJ3mz/49dTp2qvSGFdgKfFQ3bi1i7yYe0tAj2JLGgiBs9IiQVb4jUSr
+		O2QaoSmmgo6U3Q5zrP8Z/flwaXKfAYxKSwBgNz3yyWYx0aBKHgCRf74nkF+z
+		ndGPuS8RBjlDcoaOizBfBlgS4jWePP0/ZAYbS9XoQ9HjtBLEzdSRAXAZ7xQr
+		5hd+utpq+n23w52LXKcJe/Y4a5ro2UVf1eCziEK7R15A+1vKAjoJ5vVBpkci
+		SwLgnsCsxp9hDD696rCNDUob5FHjhoC/7m+t985d15EYrx+1RgeLUQIDAQAB
+		</data>
+	</dict>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+</dict>
+</plist>
